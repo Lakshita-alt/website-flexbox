@@ -168,11 +168,12 @@ body{
 }
 .snd-button{
     background-color: #3882F6;
-    width:90px;
-    height:24px;
+    width:100px;
+    height:40px;
     border: 2px solid white;
     border-radius: 6px;
     color:white;
+    font-size: 20px;
 
 }
 .fivth{
